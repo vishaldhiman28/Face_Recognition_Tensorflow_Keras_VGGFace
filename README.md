@@ -28,7 +28,7 @@ Requirements to run the project:
 About Data:
 
 I have image data of a total of six person (including me). All data is present in the Data folder.
-The data folder contains three sub folder train, test and prediction images. Also, it contains one saved model(which I got after training my model on 6 classes).
+The data folder contains three sub folder train, test and prediction images.
 
 6: Person are as:
    { 1: Myself (Vishal Dhiman),
@@ -41,6 +41,9 @@ The data folder contains three sub folder train, test and prediction images. Als
 Both train and test folders contain 10 photos of each person in the different folders having a label with a person's name.
 
 Prediction Images folder contains a total of six images of each person to get a prediction from the model.
+
+I was not able to upload my saved model here due to it's size.Let me know if you want that saved model.
+
 
 How to run?
 
